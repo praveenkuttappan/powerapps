@@ -1,0 +1,31 @@
+Screen1 As screen:
+
+    Label1 As label:
+        Text: ="Enter anything"
+        X: =60
+        Y: =60
+        ZIndex: =2
+
+    TextInput1 As text:
+        Default: ="Text input"
+        X: =210
+        Y: =60
+        ZIndex: =4
+
+    Button1 As button:
+        Text: ="Button"
+        X: =145
+        Y: =195
+        ZIndex: =5
+
+    DatePicker1 As datepicker:
+        X: =210
+        Y: =127
+        ZIndex: =6
+
+    Label2 As label:
+        Text: ="Deployment date"
+        X: =60
+        Y: =127
+        ZIndex: =7
+
