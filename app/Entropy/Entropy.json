@@ -16,7 +16,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "07/29/2022 20:50:50",
+  "HeaderLastSavedDateTimeUTC": "07/29/2022 20:55:30",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -33,24 +33,24 @@
   "OrderXMLTemplate": {
     "button": 4,
     "datepicker": 3,
-    "icon": 1,
+    "icon": 2,
     "label": 0,
     "rectangle": 5,
-    "text": 2
+    "text": 1
   },
   "PublishOrderIndices": {
     "App": 0,
-    "Button1": 6,
-    "DatePicker1": 3,
-    "Icon1": 0,
+    "Button1": 7,
+    "DatePicker1": 4,
+    "Icon1": 2,
     "Label1": 0,
-    "Label2": 2,
-    "Label3": 4,
-    "Label4": 8,
-    "Rectangle1": 7,
+    "Label2": 3,
+    "Label3": 5,
+    "Label4": 9,
+    "Rectangle1": 8,
     "Screen1": 2,
     "TextInput1": 1,
-    "TextInput2": 5
+    "TextInput2": 6
   },
   "ResourcesJsonIndices": {
     "Image-SampleImage": 0

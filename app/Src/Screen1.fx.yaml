@@ -42,7 +42,7 @@ Screen1 As screen:
         ZIndex: =9
 
     Label4 As label:
-        Text: ="Hello!"
+        Text: ="dffsdfsdfsd"
         X: =60
         Y: =388
         ZIndex: =10
