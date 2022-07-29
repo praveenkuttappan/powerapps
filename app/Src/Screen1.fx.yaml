@@ -48,6 +48,7 @@ Screen1 As screen:
         ZIndex: =10
 
     Rectangle1 As rectangle:
+        Fill: =RGBA(255, 191, 0, 1)
         Width: =384
         X: =210
         Y: =358

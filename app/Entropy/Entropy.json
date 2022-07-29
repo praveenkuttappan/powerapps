@@ -2,20 +2,20 @@
   "ComponentIndexes": {},
   "ControlUniqueIds": {
     "App": 1,
-    "Button1": 11,
-    "DatePicker1": 10,
-    "Label1": 5,
-    "Label2": 8,
-    "Label3": 7,
+    "Button1": 12,
+    "DatePicker1": 11,
+    "Label1": 6,
+    "Label2": 9,
+    "Label3": 8,
     "Label4": 4,
-    "Rectangle1": 12,
+    "Rectangle1": 5,
     "Screen1": 3,
-    "TextInput1": 6,
-    "TextInput2": 9
+    "TextInput1": 7,
+    "TextInput2": 10
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "07/29/2022 20:35:28",
+  "HeaderLastSavedDateTimeUTC": "07/29/2022 20:46:28",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -55,15 +55,16 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.1112611,
+    "AnalysisLoadTime": 0.1325917,
     "ControlCount": {
       "button": 1,
       "datepicker": 1,
       "label": 4,
+      "rectangle": 1,
       "screen": 1,
       "text": 2
     },
-    "DeserializationLoadTime": 0.5581549,
+    "DeserializationLoadTime": 0.5957092,
     "ErrorCount": 0
   },
   "WasLocalDatabaseReferencesEmpty": true
