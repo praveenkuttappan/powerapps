@@ -84,10 +84,10 @@
     "DocumentType": "App",
     "EnableInstrumentation": false,
     "FileID": "17cec363-64a3-4420-acc5-d2485317cfab",
-    "Id": "17cec363-64a3-4420-acc5-d2485317cfab",
+    "Id": "b0c8a037-a8a0-4d96-8d09-d0bc7f7d8216",
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "{}",
-    "Name": "HelloWorld",
+    "Name": "HelloWorld.msapp",
     "OriginatingVersion": "1.325"
   },
   "PublishInfo": {
