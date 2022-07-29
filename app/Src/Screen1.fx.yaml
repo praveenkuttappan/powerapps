@@ -14,8 +14,8 @@ Screen1 As screen:
 
     Button1 As button:
         Text: ="Button"
-        X: =145
-        Y: =195
+        X: =260
+        Y: =275
         ZIndex: =5
 
     DatePicker1 As datepicker:
@@ -28,4 +28,16 @@ Screen1 As screen:
         X: =60
         Y: =127
         ZIndex: =7
+
+    Label3 As label:
+        Text: ="New field"
+        X: =60
+        Y: =201
+        ZIndex: =8
+
+    TextInput2 As text:
+        Default: ="Text input"
+        X: =210
+        Y: =201
+        ZIndex: =9
 
