@@ -6,12 +6,14 @@
     "DatePicker1": 7,
     "Label1": 4,
     "Label2": 6,
+    "Label3": 9,
     "Screen1": 3,
-    "TextInput1": 5
+    "TextInput1": 5,
+    "TextInput2": 10
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "07/29/2022 20:30:02",
+  "HeaderLastSavedDateTimeUTC": "07/29/2022 20:32:11",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -37,8 +39,10 @@
     "DatePicker1": 3,
     "Label1": 0,
     "Label2": 2,
+    "Label3": 0,
     "Screen1": 0,
-    "TextInput1": 1
+    "TextInput1": 1,
+    "TextInput2": 0
   },
   "ResourcesJsonIndices": {
     "Image-SampleImage": 0
@@ -46,7 +50,7 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.0910667,
+    "AnalysisLoadTime": 0.0821539,
     "ControlCount": {
       "button": 1,
       "datepicker": 1,
@@ -54,7 +58,7 @@
       "screen": 1,
       "text": 1
     },
-    "DeserializationLoadTime": 0.512832,
+    "DeserializationLoadTime": 0.5508797,
     "ErrorCount": 0
   },
   "WasLocalDatabaseReferencesEmpty": true
