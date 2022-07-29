@@ -54,3 +54,12 @@ Screen1 As screen:
         Y: =358
         ZIndex: =11
 
+    Icon1 As icon.Airplane:
+        Color: =RGBA(109, 49, 162, 1)
+        Height: =321
+        Icon: =Icon.Airplane
+        Width: =435
+        X: =765
+        Y: =100
+        ZIndex: =12
+
