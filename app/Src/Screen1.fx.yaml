@@ -1,7 +1,7 @@
 Screen1 As screen:
 
     Label1 As label:
-        Text: ="Enter anything"
+        Text: ="Enter anything here!!!!!"
         X: =60
         Y: =60
         ZIndex: =2
