@@ -11,7 +11,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "07/29/2022 20:30:02",
+  "HeaderLastSavedDateTimeUTC": "07/29/2022 20:32:28",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -46,7 +46,7 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.0910667,
+    "AnalysisLoadTime": 0.0936561,
     "ControlCount": {
       "button": 1,
       "datepicker": 1,
@@ -54,7 +54,7 @@
       "screen": 1,
       "text": 1
     },
-    "DeserializationLoadTime": 0.512832,
+    "DeserializationLoadTime": 1.3088597,
     "ErrorCount": 0
   },
   "WasLocalDatabaseReferencesEmpty": true
